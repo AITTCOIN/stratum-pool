@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
+  "_from": "git+https://github.com/AITTCOIN/stratum-pool.git",
   "_id": "stratum-pool@1.0.1",
   "_inBundle": false,
   "_integrity": "",
@@ -7,25 +7,25 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "stratum-pool@git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
+    "raw": "stratum-pool@git+https://github.com/AITTCOIN/stratum-pool.git",
     "name": "stratum-pool",
     "escapedName": "stratum-pool",
-    "rawSpec": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
-    "saveSpec": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
-    "fetchSpec": "https://github.com/mardock2009/Ravencoin-stratum-server.git",
+    "rawSpec": "git+https://github.com/AITTCOIN/stratum-pool.git",
+    "saveSpec": "git+https://github.com/AITTCOIN/stratum-pool.git",
+    "fetchSpec": "https://github.com/AITTCOIN/stratum-pool.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git#6c97376918998552135dec570bc8ad1a2df71666",
-  "_spec": "stratum-pool@git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
+  "_resolved": "git+https://github.com/AITTCOIN/stratum-pool.git",
+  "_spec": "stratum-pool@git+https://github.com/AITTCOIN/stratum-pool.git",
   "_where": "/mnt/d/block/newAIcoin/design/Ravencoin-Pool",
   "author": {
     "name": "Cyber Pool"
   },
   "bugs": {
-    "url": "https://github.com/mardock2009/Ravencoin-stratum-server/issues"
+    "url": "https://github.com/AITTCOIN/stratum-pool/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -45,7 +45,7 @@
   "engines": {
     "node": ">=11.15.0"
   },
-  "homepage": "https://github.com/mardock2009/Ravencoin-stratum-server",
+  "homepage": "https://github.com/AITTCOIN/stratum-pool",
   "keywords": [
     "stratum",
     "mining",
@@ -59,7 +59,7 @@
   "name": "stratum-pool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git"
+    "url": "git+https://github.com/AITTCOIN/stratum-pool.git"
   },
   "version": "1.0.1"
 }
